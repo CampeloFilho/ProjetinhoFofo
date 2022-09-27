@@ -1,5 +1,5 @@
 $("#change").click(function () {
-    $("change").html("não");
+    $("#change").html("Sim");
     $("#move").show();
   });
   
